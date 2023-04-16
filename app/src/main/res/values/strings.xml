@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoAn</string>
+    <string name="schedule">Schedule</string>
+    <string name="templates">Templates</string>
+    <string name="calendar">Calendar</string>
+    <string name="tags">Tags</string>
+    <string name="blocks">Blocks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
